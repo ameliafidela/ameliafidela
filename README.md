@@ -1,4 +1,4 @@
-Hello !
+Hello🎸🎸🎸
 I'm Amelia Fidela Saraswati.
 A passionate software developer with experience across various software development projects. I am keenly interested in technology and am constantly learning and growing in this field.
 
@@ -9,7 +9,7 @@ My Mission.
 I have a passion for continuous learning and collaborating with others to create innovative and impactful technology solutions. I believe technology has tremendous potential to make the world a better place, and I am committed to contributing to positive change.
 
 Get in Touch.
-If you're interested in collaborating or have any questions, feel free to reach out to me via email at fahmimna@gmail.com I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on LinkedIn.
+If you're interested in collaborating or have any questions, feel free to reach out to me via email at fidelasaraswati23@gmail.com I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on LinkedIn.
 
 
 **ameliafidela/ameliafidela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
